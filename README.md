@@ -1,4 +1,6 @@
 # Pedroni_Panel_SVAR_Code
+https://github.com/jefflhan/Pedroni_Panel_SVAR_Code
+
 This repository is a copy of https://github.com/LewisSchrock/Pedroni_Panel_SVAR by Lewis Schrock on July 6th, 2025 and intends to make the codes publicly avaliable via google search.
 
 This repository contains Python, R, and RATS code for the estimation of Panel Structural Vector Autoregressions (SVAR).
